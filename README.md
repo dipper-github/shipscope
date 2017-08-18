@@ -12,7 +12,7 @@ Shipscope is a Chrome browser extension that monitors your projects on [Codeship
 * If a build is running, you see a little spinny thing. That never gets boring.
 * If a build has completed, you can restart it and get that spinny thing going again!
 
-Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/shipscope/jdedmgopefelimgjceagffkeeiknclhh?hl=en). Please leave reviews and suggestions in the store.
+Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/shipscope/lajnoiemmpanljkbiiclldijcknbbkfm). Please leave reviews and suggestions in the store.
 
 ---
 
@@ -20,9 +20,6 @@ Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail
 
 ### Codeship Build Status
 [![Codeship Status for codeship/shipscope](https://codeship.com/projects/65d07f70-1760-0132-b253-1a9c2abd41b7/status) ](https://codeship.com/projects/34082)
-
-### Features/Bugs
-[![Stories in Ready](https://badge.waffle.io/codeship/shipscope.png?label=ready&title=Ready)](https://waffle.io/codeship/shipscope)
 
 ### Prerequisites
 
@@ -48,6 +45,6 @@ see [CONTRIBUTING.md](https://github.com/codeship/shipscope/blob/master/CONTRIBU
 
 ## License
 
-Copyright (c) 2014 David McGaffin
+Copyright (c) 2017 Codeship Inc.
 
 see [LICENSE](https://github.com/codeship/shipscope/blob/master/LICENSE)
