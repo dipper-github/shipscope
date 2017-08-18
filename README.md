@@ -19,7 +19,7 @@ Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail
 ## Development
 
 ### Codeship Build Status
-[![Codeship Status for codeship/shipscope](https://codeship.com/projects/65d07f70-1760-0132-b253-1a9c2abd41b7/status) ](https://codeship.com/projects/34082)
+[![Codeship Status for codeship/shipscope](https://app.codeship.com/projects/688357c0-6652-0135-f3b7-1268853457c2/status) ](https://codeship.com/projects/240884)
 
 ### Prerequisites
 
